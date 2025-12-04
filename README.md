@@ -40,11 +40,5 @@ nltk.download('stopwords')
 2. Click the "Summarize" button.
 3. View the summarized text displayed on the same page.
 
-## Contributors
 
-- Nidha Ahmed Mohammad [link-to-github-profile](https://github.com/nidhaahmed)
-
-## License
-
-This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
